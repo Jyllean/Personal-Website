@@ -89,8 +89,8 @@ This project is open source and available for educational purposes.
 
 For questions or feedback, feel free to reach out:
 - Email: maangelicaa.cvle@gmail.com
-- X (Twitter): [@Angeneer96](https://x.com/Angeneer96)
-- Instagram: [@Angeneer96](https://instagram.com/Angeneer96)
+- X (Twitter): [@Angeneer96](https://x.com/AngeNeer96)
+- Instagram: [@Angeneer96](https://instagram.com/angeneer96)
 - LinkedIn: [/in/maangelicaa](https://linkedin.com/in/maangelicaa)
 
 ---
