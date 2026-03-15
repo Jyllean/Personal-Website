@@ -75,6 +75,13 @@ Through this project, I learned:
 - Responsive design techniques for multiple screen sizes
 - Best practices for code organization and documentation
 
+## ⚠️ Challenges Encountered
+
+- Styling took more time because I had to manually write and manage CSS classes instead of using a framework like Tailwind CSS
+- Maintaining consistent spacing, colors, and font sizes across different sections of the webpage was sometimes challenging
+- Locating the correct CSS selectors when adjusting the layout or design required extra time, especially as the stylesheet became longer
+- Organizing and naming CSS classes properly was important to keep the stylesheet clear and manageable as the project developed
+
 ## 📄 License
 
 This project is open source and available for educational purposes.
