@@ -92,7 +92,7 @@ This project is open source and available for educational purposes.
 - Google Fonts for typography
 - CMSC 207 Course Materials
 
-- ## ✍🏻 Note
+## ✍🏻 Note
 
 - Social media links in the website are just placeholders. Only email has the actual link. 
 ---
