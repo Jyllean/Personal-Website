@@ -2,9 +2,9 @@
 const funFacts = [
     "I chose UPOU's Diploma in Computer Science program because I crave new challenges and continuous learning! 📚",
     "I am the 7th out of 11 children, so yeah I have 10 siblings!😎👌🔥",
-    "I get bored easily with repetitive tasks, that's exactly why I'm learning to automate things! 🤖",
+    "I get bored easily with repetitive tasks, that's exactly why I'm into automation! 🤖",
     "I can solve Rubik's Cubes 3x3 within 3 minutes! 🧊",
-    "I've visited 3 different countries! ✈️",
+    "I've visited 3 different countries! Singapore, Malaysia, and Vietnam! ✈️",
     "I'm an introvert who's more comfortable chatting with online game friends than in real life! 🎮",
 ];
 
@@ -120,8 +120,7 @@ window.addEventListener('scroll', () => {
     });
 });
 
-// Hidden message for fellow tech enthusiast and developer
-console.log('%c👋 Hello, fellow developer!', 'font-size: 20px; font-weight: bold; color: #E85D45;');
+// Hidden message for classmates and Prof
+console.log('%c👋 Hello, Classmate and Prof!', 'font-size: 20px; font-weight: bold; color: #E85D45;');
 console.log('%cThanks for checking out my code!', 'font-size: 14px; color: #2D1B2E;');
 console.log('%cBuilt with HTML, CSS, and JavaScript for my CMSC 207 Mini Project', 'font-size: 12px; color: #6B5B6E;');
-console.log('%cCool right? 😎👌🔥', 'font-size: 12px; color: #6e6d5b;');
