@@ -49,7 +49,7 @@ personal-web-profile/
   - Event listeners
   - Scroll reveal animations
   - Intersection Observer API
-- **Vercel** - Deployment
+- **Vercel** - Hosting and Deployment
 
 ## ✨ JavaScript Functionality
 
