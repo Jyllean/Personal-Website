@@ -121,6 +121,6 @@ window.addEventListener('scroll', () => {
 });
 
 // Hidden message for classmates and Prof
-console.log('%c👋 Hello, Classmate and Prof!', 'font-size: 20px; font-weight: bold; color: #E85D45;');
+console.log('%c👋 Hello, Classmates and Prof!', 'font-size: 20px; font-weight: bold; color: #E85D45;');
 console.log('%cThanks for checking out my code!', 'font-size: 14px; color: #2D1B2E;');
 console.log('%cBuilt with HTML, CSS, and JavaScript for my CMSC 207 Mini Project', 'font-size: 12px; color: #6B5B6E;');
