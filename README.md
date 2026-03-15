@@ -84,6 +84,10 @@ This project is open source and available for educational purposes.
 - Inspired by "Create with Code: Build Your Own Website" by Clyde Hatter
 - Google Fonts for typography
 - CMSC 207 Course Materials
+
+- ## ✍🏻 Note
+
+- Social media links in the website are just placeholders. Only email has the actual link. 
 ---
 
 **Built with ❤️ for CMSC 207 Mini-Project by Engr. Ma. Angelica Alzaga**
